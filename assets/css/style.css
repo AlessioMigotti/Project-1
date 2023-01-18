@@ -10,7 +10,7 @@ body {
     height: 50px;
     margin: 0;
     padding: 0;
-    vertical-align: top;
+    
 }
 
 .nav-link {
@@ -35,6 +35,21 @@ body {
     --bs-nav-pills-link-active-bg: #ed9831;
     --bs-nav-pills-link-active-color: #1c1c1c;
 }
-br{
+hr{
     background-color: #ed9831;
+}
+.hero-img{
+    width: 100%;
+    height: auto;
+    margin-left: 0px;
+}
+#hero {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50px;
+}
+.text-color {
+    color: #fafaff;
 }
