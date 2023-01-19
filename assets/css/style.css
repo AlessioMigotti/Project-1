@@ -65,7 +65,14 @@ hr {
     background-size: cover;
 }
 
+/*----------------Headings*/
+.heading-color {
+    color:#f3e58f;
+}
+
+
 /*----------------Intro*/
 .text-color {
     color: #fafaff;
 }
+/*----------------Testimonials*/
