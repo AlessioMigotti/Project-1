@@ -14,14 +14,17 @@
 .nav-link {
     color: #fafaff;
     text-decoration: none;
-    font-size: 16px;
-
-
+    font-size: 20px ;
 }
+
+    
+
+
+
 
 .nav-link:hover {
     background-color: #ed9831;
-    border-radius: 40%;
+    border-radius: 70%;
     color: #1c1c1c;
     text-decoration: none;
     transition: background-color 0.5s ease-in-out;
@@ -29,7 +32,7 @@
 }
 
 .nav-pills {
-    --bs-nav-pills-border-radius: 40%;
+    --bs-nav-pills-border-radius: 70%;
     --bs-nav-link-hover-color: var(--bs-link-hover-color);
     --bs-nav-pills-link-active-bg: #ed9831;
     --bs-nav-pills-link-active-color: #1c1c1c;
@@ -48,7 +51,7 @@
 
     /* Set a specific height */
     min-height: 500px;
-    margin-top: 0px;
+    padding-top: 0;
 
 
     /* Create the parallax scrolling effect */
@@ -82,4 +85,8 @@
 .btn-primary {
     color: #f3e58f;
     background-color: #7f6f62;
+}
+
+.margin-t{
+    margin-top: 100px;
 }
