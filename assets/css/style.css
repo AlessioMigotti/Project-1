@@ -93,6 +93,7 @@
 .btn-primary {
     color: #f3e58f;
     background-color: #7f6f62;
+    border-radius: 70%;
 }
 /*--------------------------------------------------------------------------------Gallery*/
 .margin-t{
@@ -117,4 +118,10 @@
 
 .bh {
     height: 500px;
+}
+
+.buth{
+    bottom: 10px;
+    position: absolute;
+
 }

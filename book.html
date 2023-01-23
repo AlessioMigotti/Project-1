@@ -35,46 +35,54 @@
     <section class="margin-t ">
         <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
             <div class="col">
-                <div class="card mb-4 rounded-3  text-bg-info shadow-sm"style="height: 300px;">
+                <div class="card mb-4 rounded-3  text-bg-info shadow-sm" style="height: 300px;">
                     <div class="card-header py-3">
                         <h4 class="my-0 fw-normal">Monthly</h4>
                     </div>
                     <div class="card-body">
-                        <h1 class="card-title pricing-card-title">100£<small class="text-muted fw-light">/mo</small>
+                        <h1 class="card-title pricing-card-title">200£<small class="text-muted fw-light">/mo</small>
                         </h1>
                         <ul class="list-unstyled mt-3 mb-4">
                             <li>Unlimited Lessions </li>
                             <li>Ulimited Entrances</li>
                             <li>Pay Direct Debit</li>
                         </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
                     </div>
+                    <div>
+                        <button data-bs-toggle="modal" data-bs-target="#myModal" type="button"
+                            class="buth w-100 btn btn-lg btn-primary nav-link">Get started!</button>
+                    </div>
+
                 </div>
             </div>
             <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm text-bg-warning "style="height: 300px;">
+                <div class="card mb-4 rounded-3 shadow-sm text-bg-warning " style="height: 300px;">
                     <div class="card-header py-3">
                         <h4 class="my-0 fw-normal">Yearly</h4>
                     </div>
                     <div class="card-body">
-                        <h1 class="card-title pricing-card-title">900£<small class="text-muted fw-light">/yr</small>
+                        <h1 class="card-title pricing-card-title">1900£<small class="text-muted fw-light">/yr</small>
                         </h1>
                         <ul class="list-unstyled mt-3 mb-4">
                             <li>Unlimited Lessions</li>
                             <li>Ulimited Entrances</li>
                             <li>Free AMMA water bottle</li>
                         </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
+                    </div>
+                    <div>
+                        <button data-bs-toggle="modal" data-bs-target="#myModal" type="button"
+                            class="buth w-100 btn btn-lg btn-primary nav-link">Jump in!</button>
                     </div>
                 </div>
             </div>
             <div class="col">
-                <div class="card mb-4 rounded-3 shadow-sm text-bg-danger"style="height: 300px;">
+                <div class="card mb-4 rounded-3 shadow-sm text-bg-danger" style="height: 300px;">
                     <div class="card-header py-3 ">
                         <h4 class="my-0 fw-normal">One to one</h4>
                     </div>
                     <div class="card-body">
-                        <h1 class="card-title pricing-card-title">80£<small class="text-muted fw-light">/session</small>
+                        <h1 class="card-title pricing-card-title">110£<small
+                                class="text-muted fw-light">/session</small>
                         </h1>
                         <ul class="list-unstyled mt-3 mb-4">
                             <li>2 hr private Lesson with one of our Champions</li>
@@ -82,7 +90,10 @@
                             <li>Massive learnig opportunity</li>
 
                         </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
+                    </div>
+                    <div>
+                        <button data-bs-toggle="modal" data-bs-target="#myModal" type="button"
+                            class=" w-100 btn btn-lg btn-primary nav-link">Find slot</button>
                     </div>
                 </div>
             </div>
@@ -120,7 +131,48 @@
         integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous">
     </script>
 
-    </script>
+
+    <!--Modals-->
+
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="Contacts" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header text-center">
+                    <h4 class="modal-title w-100 font-weight-bold">Join the Team!</h4>
+
+                    <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="text-center">
+                    <h5>We'll contact you as soon as possible. </h5>
+                </div>
+                <div class="modal-body mx-3">
+                    <div class="md-form mb-4">
+                        <i class="fas fa-user prefix grey-text"></i>
+                        <input type="text" id="form3" class="form-control validate" required>
+                        <label data-error="wrong" data-success="right" for="form3">Your name</label>
+                    </div>
+
+                    <div class="md-form mb-4">
+                        <i class="fas fa-envelope prefix grey-text"></i>
+                        <input type="email" id="form2" class="form-control validate" required>
+                        <label data-error="wrong" data-success="right" for="form2">Your email</label>
+                    </div>
+                    <div class="md-form mb-4">
+                        <i class="fas fa-envelope prefix grey-text"></i>
+                        <input type="email" id="form2" class="form-control validate" required>
+                        <label data-error="wrong" data-success="right" for="form2">Mobile number</label>
+                    </div>
+                </div>
+                <div class="modal-footer d-flex justify-content-center">
+                    <button class="btn btn-indigo">Send <i class="fas fa-paper-plane-o ml-1"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 </body>
 
 </html>
