@@ -16,10 +16,10 @@
 .nav-link {
     color: #fafaff;
     text-decoration: none;
-    font-size: 20px ;
+    font-size: 20px;
 }
 
-    
+
 
 
 
@@ -43,19 +43,19 @@
 @media (max-width: 991.98px) {
     .navbarr {
         position: relative;
-        
+
     }
-  }
-  
+}
+
 
 /*------------------------Hero-image*/
 
-#hero {
+.hero-img {
     width: 100%;
     height: auto;
 }
 
- .hero-img{
+#hero {
     /* The image used */
     background-image: url("/assets/images/hero.jpg");
 
@@ -98,14 +98,17 @@
     background-color: #7f6f62;
     border-radius: 70%;
 }
+
 .buy-btn {
     color: #fafaff;
     font-size: 20px;
 }
+
 /*--------------------------------------------------------------------------------Gallery*/
-.margin-t{
+.margin-t {
     margin-top: 100px;
 }
+
 #herog {
     /* The image used */
     background-image: url("/assets/images/hero2.jpg");
@@ -121,13 +124,14 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 /*-----------------------------------------Book page*/
 
 .bh {
     height: 500px;
 }
 
-.buth{
+.buth {
     bottom: 10px;
     position: absolute;
 
