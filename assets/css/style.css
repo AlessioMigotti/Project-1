@@ -1,7 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=PT+Serif&display=swap');
+
 
 #bg {
     background-color: #1c1c1c;
+    
 }
 
 /*------------------------ Navbar*/
@@ -40,12 +42,6 @@
     --bs-nav-pills-link-active-color: #1c1c1c;
 }
 
-@media (max-width: 991.98px) {
-    .navbarr {
-        position: relative;
-
-    }
-}
 
 
 /*------------------------Hero-image*/
@@ -71,6 +67,7 @@
 /*----------------Headings*/
 .heading-color {
     color: #f3e58f;
+    font-family: 'PT Serif', serif;
 }
 
 
