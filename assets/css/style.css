@@ -106,6 +106,10 @@
     transform: translateY(-50%); /* this will move the image up by 50% of its own height */
     width: 100%; /* adjust as needed */
  }
+ .parallax {
+    background-image: url(your-image-source.jpg);
+ }
+ 
  
 #herog {
     /* The image used */
