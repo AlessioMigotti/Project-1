@@ -94,7 +94,19 @@
 .margin-t {
     margin-top: 100px;
 }
-
+.parallax-image {
+    position: relative;
+    height: 500px; /* adjust as needed */
+    overflow: hidden;
+ }
+ 
+.parallax-img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%); /* this will move the image up by 50% of its own height */
+    width: 100%; /* adjust as needed */
+ }
+ 
 #herog {
     /* The image used */
     
