@@ -55,20 +55,7 @@
     height: auto;
 }
 
-#hero {
-    
 
-    /* Set a specific height */
-    min-height: 500px;
-    padding-top: 0;
-
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 /* --------------------------------Testimonials*/
 .card-img-top {
@@ -108,7 +95,21 @@
     margin-top: 100px;
 }
 
+#herog {
+    /* The image used */
+    
 
+    /* Set a specific height */
+    min-height: 500px;
+    padding-top: 0;
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 /*-----------------------------------------Book page*/
 
