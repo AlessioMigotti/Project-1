@@ -1,18 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&family=PT+Serif&display=swap');
 
 
-#bg {
+
+body {
     background-color: #1c1c1c;
-    
+}
+
+
+.cbg {
+    background-color: #1c1c1c;
 }
 
 /*------------------------ Navbar*/
 .middlelogo {
     width: 50px;
     height: 50px;
-    margin: 0, 0, 5px, 0;
+    margin-bottom: 5px;
     padding: 0;
-
 }
 
 .nav-link {
@@ -21,18 +25,12 @@
     font-size: 20px;
 }
 
-
-
-
-
-
 .nav-link:hover {
     background-color: #ed9831;
     border-radius: 70%;
     color: #1c1c1c;
     text-decoration: none;
     transition: background-color 0.5s ease-in-out;
-
 }
 
 .nav-pills {
@@ -42,18 +40,17 @@
     --bs-nav-pills-link-active-color: #1c1c1c;
 }
 
-
+@media (max-width: 991.98px) {
+    .navbarr {
+        position: relative;
+    }
+}
 
 /*------------------------Hero-image*/
-
 .hero-img {
     width: 100%;
     height: auto;
-    
-
 }
-
-
 
 /* --------------------------------Testimonials*/
 .card-img-top {
@@ -69,7 +66,6 @@
     color: #f3e58f;
     font-family: 'PT Serif', serif;
 }
-
 
 /*----------------Intro*/
 .text-color {
@@ -91,13 +87,10 @@
 
 /*--------------------------------------------------------------------------------Gallery*/
 .margin-t {
-    margin-top: 100px;
+    margin-top: 85px;
 }
 
-
-
 /*-----------------------------------------Book page*/
-
 .bh {
     height: 500px;
 }
@@ -105,5 +98,4 @@
 .buth {
     bottom: 10px;
     position: absolute;
-
 }
