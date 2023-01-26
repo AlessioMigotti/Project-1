@@ -56,8 +56,7 @@
 }
 
 #hero {
-    /* The image used */
-    background-image: url("/assets/images/hero.jpg");
+    
 
     /* Set a specific height */
     min-height: 500px;
@@ -111,7 +110,7 @@
 
 #herog {
     /* The image used */
-    background-image: url("/assets/images/hero2.jpg");
+    
 
     /* Set a specific height */
     min-height: 500px;
