@@ -15,13 +15,14 @@ In addition to Bootstrap, a variety of other tools and resources were used in th
   and solving development problems.
 
 The website's design process started with the use of wireframe software Figma, which was used to create a visual representation of 
-the website's layout and design. This allowed for a clear understanding of the website's structure and organization before moving 
-on to the actual development process.
+the website's layout and design. This allowed for a aproximative understanding of the website's structure and organization before moving on to the actual development process.
+
+![Alt text](/assets/images/Screenshot%20(5).jpg) "a title")
 
 The website also includes a HTML and CSS formatter, HTMLFormatter and CleanCSS respectively, to keep the code neat and tidy. 
 The website was also validated using W3C's HTML and CSS validator to ensure that it meets web standards.
 
-The website was also designed to be easily accessible on mobile devices, it was tested on iPhone using the App Freeform,
+The website was also designed to be easily accessible on mobile devices, it was tested on iPhone,
  this allowed us to ensure that the website was fully functional and responsive on mobile devices.
 
 The logo of the website was also created using Freeform, this software was used to create a logo that represents the brand of 
