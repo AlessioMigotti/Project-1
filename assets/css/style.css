@@ -53,11 +53,11 @@ body {
 }
 
 /* --------------------------------Testimonials*/
-.card-img-tran {
+.card-img-top {
     transition: transform 0.5s ease-in-out;
 }
 
-.card-img-tran:hover {
+.card-img-top:hover {
     transform: scale(1.1)
 }
 
