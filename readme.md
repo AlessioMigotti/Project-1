@@ -9,7 +9,7 @@ The website's design is based on a clean, modern aesthetic. The layout is simple
 
 In addition to Bootstrap, a variety of other tools and resources were used in the development of the website. Pexels, Evolve MMA
  and Amazon were used as sources for high-quality, royalty-free images that were used throughout the website. The images were then
-  edited with the help of Croppola, an online image editing tool that allows you to crop and resize images. And also Upscale AI, 
+  edited with the help of Croppola, an online image editing tool that allows you to crop and resize images and a compressor called Optimizilla. And also Upscale AI, 
   was used to enhance the quality of the images. Google Fonts was used to add stylish typography to the website. Stack Overflow, 
   an online community of developers that provides answers to programming questions, was also used as a resource for troubleshooting 
   and solving development problems.
