@@ -17,7 +17,7 @@ In addition to Bootstrap, a variety of other tools and resources were used in th
 The website's design process started with the use of wireframe software Figma, which was used to create a visual representation of 
 the website's layout and design. This allowed for a aproximative understanding of the website's structure and organization before moving on to the actual development process.
 
-![Alt text](/assets/images/Screenshot%20(5).jpg) "a title")
+![Alt text](/assets/images/Screenshot%20(5).jpg) "Figma sketch")
 
 The website also includes a HTML and CSS formatter, HTMLFormatter and CleanCSS respectively, to keep the code neat and tidy. 
 The website was also validated using W3C's HTML and CSS validator to ensure that it meets web standards.
@@ -35,3 +35,5 @@ The website is easy to navigate, visually appealing and fully responsive on mobi
 Freeform, which adds a professional touch to the website. The website is a valuable resource for anyone interested in MMA training, 
 and it is an excellent representation of the gym's brand.
 The website was also designed to be easily accessible on mobile devices, it was tested on iPhone.
+
+![Alt text](/assets/images/Siremap.png) "Sitemap")
