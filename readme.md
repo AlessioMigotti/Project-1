@@ -1,24 +1,24 @@
-Project 1 - Detailed ReadMe
+Project 1 - Detailed ReadMe:
 Welcome to Project 1! This is a web-based project created to showcase a specific topic in an interactive and engaging way. This ReadMe provides additional information and details about the project.
 
-Purpose
+Purpose:
 The purpose of Project 1 is to demonstrate an understanding of HTML, CSS, and JavaScript.
 The project showcases a specific topic through the use of various web development technologies.
 
-Features
+Features:
 The website features a responsive design, ensuring optimal viewing on all devices including desktops, laptops, tablets, and smartphones.
 The website includes a user-friendly navigation menu, allowing for easy navigation and access to all sections of the website.
 Interactive elements such as hover effects, pop-ups, and animations are included to enhance user experience and make the website more engaging.
 
-Technologies Used
+Technologies Used:
 Project 1 was developed using HTML, CSS, and JavaScript.
 The Bootstrap framework was used for styling and layout.
 
-Usage
+Usage:
 The website is intended for educational purposes only and is not intended for commercial use.
 Please feel free to explore the website and its features.
 
-Feedback
+Feedback:
 If you have any questions or suggestions, please feel free to reach out to the creator via the information provided on the website.
 Your feedback is greatly appreciated and will help to improve future projects.
 
@@ -65,23 +65,23 @@ The website was also designed to be easily accessible on mobile devices, it was 
 ![Alt text](/assets/images/Siremap.png) "Sitemap Miro.com")
 
 
-Home
+Home:
 The home page is named "Homepage".
 It provides an introduction to the project and its purpose.
 It includes a brief overview of the topic and a call-to-action to explore the website further.
 
-About
+About:
 The About page is named "Gallery".
 It provides more information about the topic, including a history and background.
 It provides context and additional information to help users better understand the topic.
 
-Features
+Features:
 The Features page is named "Shop".
 It highlights key features and interactive elements of the website.
 It provides an overview of the different ways in which users can engage with the website and its products.
 Connects to a Checkout form.
 
-Contact
+Contact:
 The Contact page is named "Book now".
 It provides information about how to get in touch with the creator of the project.
 It includes contact details such as telephone, email and social media links.
