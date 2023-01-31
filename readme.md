@@ -54,57 +54,111 @@ The website's design is based on a clean, modern aesthetic. The layout is simple
 
    ![Alt text](/assets/images/Examples.png)
 
+## **Fonts**
 The fonts used are Noto+Sans PT+Serif imported from <a href="https://fonts.google.com/">Google Fonts</a>
 
-In addition to Bootstrap, a variety of other tools and resources were used in the development of the website. Pexels, Evolve MMA
- and Amazon were used as sources for high-quality, royalty-free images that were used throughout the website. The images were then
+## **Images**
+In addition to Bootstrap, a variety of other tools and resources were used in the development of the website. Pexels and Amazon were used as sources for high-quality, parttally royalty-free images that were used throughout the website. The images were then
   edited with the help of Croppola, an online image editing tool that allows you to crop and resize images and a compressor called Optimizilla.
    And, Upscale AI, was used to enhance the quality of the images. Google Fonts was used to add stylish typography to the website. Stack Overflow, 
   an online community of developers that provides answers to programming questions, was also used as a resource for troubleshooting 
   and solving development problems.
 
+## **Wireframe**
 The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
 the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
 
 ![Alt text](/assets/images/Screenshot%20(5).jpg)  
 
 
+## **Formatters and validators**
+The website also includes a HTML and CSS formatter, <a href="https://htmlformatter.com/">HTMLFormatter</a> and <a href="https://www.cleancss.com/">CleanCSS</a> respectively, to keep the code neat and tidy. 
+The website was also validated using <a href="https://validator.w3.org/">W3C</a> HTML and CSS validator to ensure that it meets web standards.
 
-The website also includes a HTML and CSS formatter, HTMLFormatter and CleanCSS respectively, to keep the code neat and tidy. 
-The website was also validated using W3C's HTML and CSS validator to ensure that it meets web standards.
-
-The website was also designed to be easily accessible on mobile devices, it was tested on iPhone,
- this allowed us to ensure that the website was fully functional and responsive on mobile devices.
-
+## **Logo**
 The logo of the website was also created using Freeform, this software was used to create a logo that represents the brand of 
 the website, and adds an extra layer of professionalism and credibility to the website.
-
-User persona was used to create a list of users that are interested in the matter and their opinions gave some material to fullfill peoples needs:
-The users i've generated:
-<details>
-  <summary>The title of the image group</summary><details>
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
-  <img src="" name="">
-  <img src="" name="">
-  <img src="" name="">
-  <img src="" name="">
-  <img src="" name="">
-  <img src="" name="">
-  <img src="" name="">
-  <img src="" name="">
-  <img src="" name="">
-  <img src="" name="">
-</details> 
-
-In summary, the website was designed and developed using a combination of different tools and resources such as <a href="https://www.pexels.com/">Bootstrap</a>, 
-<a href="https://www.pexels.com/">Pexels</a>, , <a href="https://www.amazon.co.uk/">Amazon</a>, <a href="https://croppola.com/">Croppola</a>, <a href="https://miro.com/">Miro</a>, <a href="https://www.figma.com/ui-design-tool/">Figma</a>, <a href="https://dribbble.com/bossam/collections/6249676-mma">Dribble</a>, <a href="https://userpersona.dev/">User persona</a>, <a href="https://thispersondoesnotexist.com/">This person does not exist</a>, <a href="https://coolors.co/">Coolors</a>, <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>, <a href="https://www.upscale.media/">Upscale AI</a>, <a href="https://fonts.google.com/">Google Fonts</a>, <a href="https://stackoverflow.com/">Stack Overflow</a>, <a href="https://htmlformatter.com/">HTMLFormatter</a>, <a href="https://www.cleancss.com/">CleanCSS</a>, <a href="https://validator.w3.org/">W3C validators</a> and <a href="https://developer.chrome.com/docs/lighthouse/overview/">Google Dev Lighthouse</a>. 
-and was put together with the goal of providing a comprehensive resource for MMA training, techniques, and gym schedule.
-
 The website is easy to navigate, visually appealing and fully responsive on mobile devices, the logo that was created using 
 Freeform, adds a professional touch to the website. The website is a valuable resource for anyone interested in MMA training, 
 and it is an excellent representation of the gym's brand.
 The website was also designed to be easily accessible on mobile devices, it was tested on iPhone.
+
+![AMMA Logo](/assets/images/logo.jpg)
+
+### **User Persona**
+User persona was used to create a list of users that are interested in the matter and their opinions gave some material to fullfill peoples needs:
+
+
+  
+
+<details>
+ <summary>The users i've generated:</summary>
+
+![User persona 0 card to enrich the AMMA website](/assets/images/user-persona.png)
+  
+
+![User persona 1 card to enrich the AMMA website](/assets/images/user-persona%20(1).png)
+
+ 
+![User persona 2 card to enrich the AMMA website](/assets/images/user-persona%20(2).png)
+
+
+![User persona 3 card to enrich the AMMA website](/assets/images/user-persona%20(3).png)
+
+
+![User persona 4 card to enrich the AMMA website](/assets/images/user-persona%20(4).png)
+
+
+![User persona 5 card to enrich the AMMA website](/assets/images/user-persona%20(5).png)
+
+
+![User persona 6 card to enrich the AMMA website](/assets/images/user-persona%20(6).png)
+
+
+![User persona 7 card to enrich the AMMA website](/assets/images/user-persona%20(7).png)
+
+
+![User persona 8 card to enrich the AMMA website](/assets/images/user-persona%20(8).png)
+
+
+![User persona 9 card to enrich the AMMA website](/assets/images/user-persona%20(9).png)
+
+
+![User persona 10 card to enrich the AMMA website](/assets/images/user-persona%20(10).png)
+
+
+![User persona 11 card to enrich the AMMA website](/assets/images/user-persona%20(11).png)
+
+
+</details>  
+
+
+<br>
+
+### **Tools**
+
+In summary, the website was designed and developed using a combination of different tools and resources such as: 
+- <a href="https://www.pexels.com/">Bootstrap</a>
+- <a href="https://www.pexels.com/">Pexels</a>
+- <a href="https://www.amazon.co.uk/">Amazon</a>
+- <a href="https://croppola.com/">Croppola</a>
+- <a href="https://miro.com/">Miro</a>
+- <a href="https://www.figma.com/ui-design-tool/">Figma</a>
+- <a href="https://dribbble.com/bossam/collections/6249676-mma">Dribble</a>
+- <a href="https://userpersona.dev/">User persona</a>
+- <a href="https://thispersondoesnotexist.com/">This person does not exist</a>
+- <a href="https://coolors.co/">Coolors</a>
+- <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>
+- <a href="https://www.upscale.media/">Upscale AI</a>
+- <a href="https://fonts.google.com/">Google Fonts</a>
+- <a href="https://stackoverflow.com/">Stack Overflow</a>
+- <a href="https://htmlformatter.com/">HTMLFormatter</a>
+- <a href="https://www.cleancss.com/">CleanCSS</a>
+- <a href="https://validator.w3.org/">W3C validators</a>
+- <a href="https://developer.chrome.com/docs/lighthouse/overview/">Google Dev Lighthouse</a>
+and was put together with the goal of providing a comprehensive resource for MMA training, techniques, and gym schedule.
+
+
 
 
 
@@ -136,8 +190,13 @@ Here there is a site map that shows the websites diramations. i made it with  <a
 
 <br>  
 
+
+
+
 ### **Lighthouse scores via Chrome Developer Tools**   
-  
+  The website was also designed to be easily accessible on mobile devices, it was tested on iPhone,
+ this allowed us to ensure that the website was fully functional and responsive on mobile devices.
+
 For Desktop   
 <details open>
 <summary>Lighthouse audit for Index Homepage</summary>  
