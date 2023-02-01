@@ -164,7 +164,7 @@ and was put together with the goal of providing a comprehensive resource for MMA
 
 
 ### **Home:**
-The home page is named "Homepage".
+The home page is named "Home".
 It introduces to the project and its purpose.
 It includes a brief overview of the topic and a call-to-action to explore the website further.
 
@@ -180,13 +180,13 @@ It provides an overview of the different ways in which users can engage with the
 Connects to a Checkout form.
 
 ### **Contact:**
-The Contact page is named "Book now".
+The Contact page is named "Book".
 It provides information about how to get in touch with the creator of the project.
 It includes contact details such as telephone, email and social media links.
 
 Here there is a site map that shows the websites diramations. i made it with  <a href="https://miro.com/">Miro.com</a> :
 
-![Alt text](/assets/images/sitemap.webp)
+![Alt text](/assets/images/sitemap.png)
 
 <br>  
 
@@ -199,24 +199,24 @@ Here there is a site map that shows the websites diramations. i made it with  <a
 
 For Desktop   
 <details open>
-<summary>Lighthouse audit for Index Homepage</summary>  
+<summary>Lighthouse audit for Index Home</summary>  
 
-![screenshot of lighthouse audit for index homepage for AMMA](/assets/images/)
+![screenshot of lighthouse audit for index homepage for AMMA](/assets/images/Screenshot%202023-02-01%20at%2011.40.29.png)
 </details> 
 <details >
 <summary>Lighthouse audit for Gallery page</summary>  
 
-![screenshot of lighthouse audit for gallery page for AMMA](/assets/images/)
+![screenshot of lighthouse audit for gallery page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.26.02.png)
 </details>
 <details >
 <summary>Lighthouse audit for Shop page</summary>  
 
-![screenshot of lighthouse audit for shop page for AMMA](/assets/images/)
+![screenshot of lighthouse audit for shop page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.26.39.png)
 </details>  
 <details >
-<summary>Lighthouse audit for Contact book now page</summary>  
+<summary>Lighthouse audit for Contact Book page</summary>  
 
-![screenshot of lighthouse audit for contact book now page for AMMA](/assets/images/)
+![screenshot of lighthouse audit for contact book now page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.27.10.png)
 </details>     
 
 <br>
@@ -225,22 +225,22 @@ For Mobile
 <details open>
 <summary>Lighthouse audit for Index Homepage - Mobile</summary>  
 
-![screenshot of lighthouse audit for index home page for AMMA](/assets/images/)
+![screenshot of lighthouse audit for index home page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2011.51.55.png)
 </details> 
 <details open>
 <summary>Lighthouse audit for Gallery page - Mobile</summary>  
 
-![screenshot of lighthouse audit for gallery page for AMMA](/assets/images/)
+![screenshot of lighthouse audit for gallery page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.17.41.png)
 </details>
 <details >
 <summary>Lighthouse audit for Shop page - Mobile</summary>  
 
-![screenshot of lighthouse audit for shop page for AMMA](/assets/images/)
+![screenshot of lighthouse audit for shop page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.18.29.png)
 </details>
 <details >
 <summary>Lighthouse audit for Contact Book now page - Mobile</summary>  
 
-![screenshot of lighthouse audit for contact book now page for AMMA](/assets/images/)
+![screenshot of lighthouse audit for contact book now page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.19.01.png)
 </details>      
 
 Thank you for visiting Project 1! We hope you enjoy exploring the website and its features.
