@@ -64,14 +64,18 @@ The website's design is based on a clean, modern aesthetic. The layout is simple
 
    ![Alt text](/assets/images/Examples.webp)
 <br>
+
 ## **Fonts**
 The fonts used are Noto+Sans PT+Serif imported from <a href="https://fonts.google.com/">Google Fonts</a>
 <br>
+
 ## **Images**
+
 In addition to Bootstrap, a variety of other tools and resources were used in the development of the website. Pexels and Amazon were used as sources for high-quality, partially royalty-free images that were used throughout the website. The images were then
   edited with the help of Croppola, an online image editing tool that allows you to crop and resize images and a compressor called Optimizilla.
    And, Upscale AI, was used to enhance the quality of the images. Google Fonts was used to add stylish typography to the website. 
 <br>
+
 ## **Wireframe**
 The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
 the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
@@ -79,10 +83,9 @@ the website's layout and design. This allowed for a approximative understanding 
 ![Alt text](/assets/images/sketch.webp)  
 
 <br>
-## **Formatters and validators**
-The website also includes a HTML and CSS formatter, <a href="https://htmlformatter.com/">HTMLFormatter</a> and <a href="https://www.cleancss.com/">CleanCSS</a> respectively, to keep the code neat and tidy. 
-The website was also validated using <a href="https://validator.w3.org/">W3C</a> HTML and CSS validator to ensure that it meets web standards.
-<br>
+
+
+
 ## **Logo**
 The logo of the website was also created using Freeform, this software was used to create a logo that represents the brand of 
 the website, and adds an extra layer of professionalism and credibility to the website.
@@ -93,6 +96,7 @@ The website was also designed to be easily accessible on mobile devices, it was 
 
 ![AMMA Logo](/assets/images/logo.webp)
 <br>
+
 ## **User Persona**
 User persona was used to create a list of users that are interested in the matter and their opinions gave some material to fullfill peoples needs:
 
@@ -165,48 +169,74 @@ In summary, the website was designed and developed using a combination of differ
 - <a href="https://www.cleancss.com/">CleanCSS</a>
 - <a href="https://validator.w3.org/">W3C validators</a>
 - <a href="https://developer.chrome.com/docs/lighthouse/overview/">Google Dev Lighthouse</a>
-and was put together with the goal of providing a comprehensive resource for MMA training, techniques, and gym schedule.
+
+...and was put together with the goal of providing a comprehensive resource for MMA training, and gym information.
 
 
 <br>
 
 ## **Description**
-The website is called AMMA that stands
+The website is called AMMA that stands for Academy Mixed Martial Arts.
+All the pages include a nav bar and a footer. The nav bar is made of the 4 componets (Home, Gallery, Shop and Book) and the logo (in the middle) that ridirects to the home page. The footer includes a copyright and the links to social media.
+
 ### **Home:**
 The home page is named "Home".
 It introduces to the project and its purpose.
 It includes a brief overview of the topic and a call-to-action to explore the website further.
+It includes a hero image, a intoduction to the purpouse, and testimonials.
 
 
 ### **About:**
 The About page is named "Gallery".
 It provides more information about the topic, including a history and background.
 It provides context and additional information to help users better understand the topic.
+Here there is another hero image. Then there is a photo and description of some of the trainers, under that there is a series of embeded Youtube videos with other examples of trainers and finally the photo and description of the three venues available.
 
 ### **Features:**
 The Features page is named "Shop".
 It highlights key features and interactive elements of the website.
 It provides an overview of the different ways in which users can engage with the website and its products.
-Connects to a Checkout form.
+There are three products with images, brief descriptions and buy buttons that connect to a Checkout form.
+The last image of the three in the shop is a carousel that shows a female and male option.
+
+#### **Checkout:**
+The checkout page is named "buy".
+It gives you a visual of what the process of purchasing a product would look like.
+There is a simplified nav with the logo that brings you back to the home page and an arrow that takes you back to the shop page.
+Its content is a form to fill in with a prefixed cart.
 
 ### **Contact:**
 The Contact page is named "Book".
 It provides information about how to get in touch with the creator of the project.
 It includes contact details such as telephone, email and social media links.
+There are three options to pick from that all bring you to a modal contact form, that will get you contacted by a member of staff.
+You have the option to choose from. A monthly, yearly subscription with a discout if you get the extended one and a option to get a one to one Champions Lesson. 
 
+### **404**
+404 is a status code that tells a web user that a requested page is not available. 404 and other response status codes are part of the web's Hypertext Transfer Protocol response codes. The 404 code means that a server could not find a client-requested webpage.
+It's a simple page with some bootstrap colours and a hypertext that brings you back to the home page.
+<br>
+
+## **Sitemap**
 Here there is a site map that shows the websites diramations. i made it with  <a href="https://miro.com/">Miro.com</a> :
 
 ![Alt text](/assets/images/sitemap.png)
 
 <br>  
 
+## **Formatters and validators**
 
+The website also includes a HTML and CSS formatter, <a href="https://htmlformatter.com/">HTMLFormatter</a> and <a href="https://www.cleancss.com/">CleanCSS</a> respectively, to keep the code neat and tidy. 
+The website was also validated using <a href="https://validator.w3.org/">W3C</a> HTML and CSS validator to ensure that it meets web standards. All the html was validated.
+CSS Validation:
+![AMMA Logo](/assets/images/validationcss.png)
+<br>
 
 
 ## **Lighthouse scores via Chrome Developer Tools**   
   
 
-For Desktop   
+### **For Desktop**   
 <details>
 <summary>Lighthouse audit for Index Home</summary>  
 
@@ -230,7 +260,7 @@ For Desktop
 
 <br>
   
-For Mobile   
+### **For Mobile**   
 <details >
 <summary>Lighthouse audit for Index Homepage - Mobile</summary>  
 
@@ -276,8 +306,11 @@ The website was also designed to be easily accessible on mobile devices, it was 
 <summary>Am i responsive for Contact Book page</summary>  
 
 ![screenshot of UiDEv audit for contact book now page for AMMA](/assets/images/resp4.png)
-</details>     
+</details> 
+
+## **Unsolved bugs**
+Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles
+Serve images that are appropriately-sized to save cellular data and improve load time.
 
 
-
-Thank you for visiting Project 1! We hope you enjoy exploring the website and its features.
+## **Thank you for visiting Project 1! We hope you enjoy exploring the website and its features.**
