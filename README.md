@@ -1,108 +1,283 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<a href="https://alessiomigotti.github.io/Project-1/">This is the github deployment</a>
 
-Welcome AlessioMigotti,
+# **Project 1 - Detailed ReadMe:**
+Welcome to Project 1! This is a web-based project created to showcase a specific topic in an interactive and engaging way. This ReadMe provides additional information and details about the project.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## **Purpose:**
+The purpose of Project 1 is to demonstrate an understanding of HTML, CSS, and JavaScript.
+The project showcases a specific topic using of various web development technologies.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+## **Features:**
+The website features a responsive design, ensuring optimal viewing on all devices including desktops, laptops, tablets, and smartphones.
+The website includes a user-friendly navigation menu, allowing for easy navigation and access to all sections of the website.
+Interactive elements such as hover effects, pop-ups, and animations are included to enhance user experience and make the website more engaging.
 
-## Gitpod Reminders
+## **Technologies Used:**
+Project 1 was developed using HTML, CSS, and JavaScript.
+The Bootstrap framework was used for styling and layout.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## **Usage:**
+The website is intended for educational purposes only and is not intended for commercial use.
+Please feel free to explore the website and its features.
 
-`python3 -m http.server`
+## **Feedback:**
+If you have any questions or suggestions, please feel free to reach out to the creator via the information provided on the website.
+Your feedback is greatly appreciated and will help to improve future projects.
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
+The website was designed and developed using Bootstrap, a popular front-end framework developed and maintained by Twitter. 
+Bootstrap provides a set of pre-designed CSS and JavaScript components that can be easily integrated into a website,
+ which makes it easy to create a website that looks great on desktop and mobile devices. The website was also designed
+  to be responsive and mobile-first, which means that it automatically adjusts the layout of a website to fit different screen sizes.Stack Overflow, an online community of developers that provides answers to programming questions, was also used as a resource for troubleshooting and solving development problems.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+The website's design is based on a clean, modern aesthetic. The layout is simple and easy to navigate, with clear headings and
+ sections that make it easy for users to find the information they need. The colour scheme is primarily black and white, with
+  the occasional use of accent colours to highlight important elements.
 
-A blue button should appear to click: _Make Public_,
+  ## **Colour palette**
+  This is the color palette i used. It was made with <a href="https://coolors.co/">Coolors</a>():
 
-Another blue button should appear to click: _Open Browser_.
+  ![Alt text](/assets/images/colorpalette.webp)
+<br>
+  ## **Text contrast**
+  I checked the colour contrast on Adobe color <a href="https://color.adobe.com/create/color-contrast-analyzerhttps:/">Adobe color contrast</a>:
+<details open>
+<summary>Adobe results for Heading colour contrast</summary>  
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+![Adobe results for Heading colour on AMMA](/assets/images/contrast-h.png)
+</details> 
+<details open>
+<summary>Adobe results for Paragraphs colour contrast</summary>  
 
-To log into the Heroku toolbelt CLI:
+![Adobe results for Paragraphs colour on AMMA](/assets/images/contrast-p.png)
+</details>
+    
+<br>
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+  ## **Colorblind safe**
+  Then i checked if its colour blind safe <a href="https://color.adobe.com/create/color-wheel">(Adobe color blind safe)</a>:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+  ![Alt text](/assets/images/blindsafe.webp) 
+<br>
+   ## **Examples i followed**
+   I took inspiration from the following templates on <a href="https://dribbble.com/bossam/collections/6249676-mma">Dribble</a>: 
 
-------
+   ![Alt text](/assets/images/Examples.webp)
+<br>
+## **Fonts**
+The fonts used are Noto+Sans PT+Serif imported from <a href="https://fonts.google.com/">Google Fonts</a>
+<br>
+## **Images**
+In addition to Bootstrap, a variety of other tools and resources were used in the development of the website. Pexels and Amazon were used as sources for high-quality, partially royalty-free images that were used throughout the website. The images were then
+  edited with the help of Croppola, an online image editing tool that allows you to crop and resize images and a compressor called Optimizilla.
+   And, Upscale AI, was used to enhance the quality of the images. Google Fonts was used to add stylish typography to the website. 
+<br>
+## **Wireframe**
+The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
+the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
 
-## Release History
+![Alt text](/assets/images/sketch.webp)  
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+<br>
+## **Formatters and validators**
+The website also includes a HTML and CSS formatter, <a href="https://htmlformatter.com/">HTMLFormatter</a> and <a href="https://www.cleancss.com/">CleanCSS</a> respectively, to keep the code neat and tidy. 
+The website was also validated using <a href="https://validator.w3.org/">W3C</a> HTML and CSS validator to ensure that it meets web standards.
+<br>
+## **Logo**
+The logo of the website was also created using Freeform, this software was used to create a logo that represents the brand of 
+the website, and adds an extra layer of professionalism and credibility to the website.
+The website is easy to navigate, visually appealing and fully responsive on mobile devices, the logo that was created using 
+Freeform, adds a professional touch to the website. The website is a valuable resource for anyone interested in MMA training, 
+and it is an excellent representation of the gym's brand.
+The website was also designed to be easily accessible on mobile devices, it was tested on iPhone.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+![AMMA Logo](/assets/images/logo.webp)
+<br>
+## **User Persona**
+User persona was used to create a list of users that are interested in the matter and their opinions gave some material to fullfill peoples needs:
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+  
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+<details>
+ <summary>The users i've generated:</summary>
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+![User persona 0 card to enrich the AMMA website](/assets/images/user-persona.webp)
+  
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+![User persona 1 card to enrich the AMMA website](/assets/images/user-persona1.webp)
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+ 
+![User persona 2 card to enrich the AMMA website](/assets/images/user-persona2.webp)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+![User persona 3 card to enrich the AMMA website](/assets/images/user-persona3.webp)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+![User persona 4 card to enrich the AMMA website](/assets/images/user-persona4.webp)
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+![User persona 5 card to enrich the AMMA website](/assets/images/user-persona5.webp)
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
-------
+![User persona 6 card to enrich the AMMA website](/assets/images/user-persona6.webp)
 
-## FAQ about the uptime script
 
-**Why have you added this script?**
+![User persona 7 card to enrich the AMMA website](/assets/images/user-persona7.webp)
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
 
-**How will this affect me?**
+![User persona 8 card to enrich the AMMA website](/assets/images/user-persona8.webp)
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+![User persona 9 card to enrich the AMMA website](/assets/images/user-persona9.webp)
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
+![User persona 10 card to enrich the AMMA website](/assets/images/user-persona10.webp)
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
 
-**Can I opt out?**
+![User persona 11 card to enrich the AMMA website](/assets/images/user-persona11.webp)
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+</details>  
 
-**Anything more?**
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+<br>
 
----
+## **Tools**
 
-Happy coding!
+In summary, the website was designed and developed using a combination of different tools and resources such as: 
+- <a href="https://www.pexels.com/">Bootstrap</a>
+- <a href="https://www.pexels.com/">Pexels</a>
+- <a href="https://www.amazon.co.uk/">Amazon</a>
+- <a href="https://croppola.com/">Croppola</a>
+- <a href="https://miro.com/">Miro</a>
+- <a href="https://www.figma.com/ui-design-tool/">Figma</a>
+- <a href="https://dribbble.com/bossam/collections/6249676-mma">Dribble</a>
+- <a href="https://userpersona.dev/">User persona</a>
+- <a href="https://thispersondoesnotexist.com/">This person does not exist</a>
+- <a href="https://coolors.co/">Coolors</a>
+- <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>
+- <a href="https://www.upscale.media/">Upscale AI</a>
+- <a href="https://fonts.google.com/">Google Fonts</a>
+- <a href="https://stackoverflow.com/">Stack Overflow</a>
+<a href="https://ui.dev/amiresponsive">Ui dev,Am i responsive</a>
+- <a href="https://htmlformatter.com/">HTMLFormatter</a>
+- <a href="https://www.cleancss.com/">CleanCSS</a>
+- <a href="https://validator.w3.org/">W3C validators</a>
+- <a href="https://developer.chrome.com/docs/lighthouse/overview/">Google Dev Lighthouse</a>
+and was put together with the goal of providing a comprehensive resource for MMA training, techniques, and gym schedule.
+
+
+<br>
+
+## **Description**
+The website is called AMMA that stands
+### **Home:**
+The home page is named "Home".
+It introduces to the project and its purpose.
+It includes a brief overview of the topic and a call-to-action to explore the website further.
+
+
+### **About:**
+The About page is named "Gallery".
+It provides more information about the topic, including a history and background.
+It provides context and additional information to help users better understand the topic.
+
+### **Features:**
+The Features page is named "Shop".
+It highlights key features and interactive elements of the website.
+It provides an overview of the different ways in which users can engage with the website and its products.
+Connects to a Checkout form.
+
+### **Contact:**
+The Contact page is named "Book".
+It provides information about how to get in touch with the creator of the project.
+It includes contact details such as telephone, email and social media links.
+
+Here there is a site map that shows the websites diramations. i made it with  <a href="https://miro.com/">Miro.com</a> :
+
+![Alt text](/assets/images/sitemap.png)
+
+<br>  
+
+
+
+
+## **Lighthouse scores via Chrome Developer Tools**   
+  
+
+For Desktop   
+<details>
+<summary>Lighthouse audit for Index Home</summary>  
+
+![screenshot of lighthouse audit for index homepage for AMMA](/assets/images/Screenshot%202023-02-01%20at%2011.40.29.png)
+</details> 
+<details >
+<summary>Lighthouse audit for Gallery page</summary>  
+
+![screenshot of lighthouse audit for gallery page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.26.02.png)
+</details>
+<details >
+<summary>Lighthouse audit for Shop page</summary>  
+
+![screenshot of lighthouse audit for shop page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.26.39.png)
+</details>  
+<details >
+<summary>Lighthouse audit for Contact Book page</summary>  
+
+![screenshot of lighthouse audit for contact book now page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.27.10.png)
+</details>     
+
+<br>
+  
+For Mobile   
+<details >
+<summary>Lighthouse audit for Index Homepage - Mobile</summary>  
+
+![screenshot of lighthouse audit for index home page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2011.51.55.png)
+</details> 
+<details>
+<summary>Lighthouse audit for Gallery page - Mobile</summary>  
+
+![screenshot of lighthouse audit for gallery page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.17.41.png)
+</details>
+<details >
+<summary>Lighthouse audit for Shop page - Mobile</summary>  
+
+![screenshot of lighthouse audit for shop page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.18.29.png)
+</details>
+<details >
+<summary>Lighthouse audit for Contact Book now page - Mobile</summary>  
+
+![screenshot of lighthouse audit for contact book now page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.19.01.png)
+</details> 
+
+<br>
+
+## **Responsiveness**
+The website was also designed to be easily accessible on mobile devices, it was tested on <a href="https://ui.dev/amiresponsive">Ui dev,Am i responsive</a>,
+ this allowed us to ensure that the website was fully functional and responsive on mobile devices.
+ <details open>
+<summary>Am i responsive for Index Home</summary>  
+
+![screenshot of UiDEv audit for index homepage for AMMA](/assets/images/resp1.png)
+</details> 
+<details open>
+<summary>Am i responsive for Gallery page</summary>  
+
+![screenshot of UiDEv audit for gallery page for AMMA](/assets/images/resp2.png)
+</details>
+<details open>
+<summary>Am i responsive for Shop page</summary>  
+
+![screenshot of UiDEv audit for shop page for AMMA](/assets/images/resp3.png)
+</details>  
+<details open>
+<summary>Am i responsive for Contact Book page</summary>  
+
+![screenshot of UiDEv audit for contact book now page for AMMA](/assets/images/resp4.png)
+</details>     
+
+
+
+Thank you for visiting Project 1! We hope you enjoy exploring the website and its features.
