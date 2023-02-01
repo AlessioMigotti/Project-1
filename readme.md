@@ -37,22 +37,22 @@ The website's design is based on a clean, modern aesthetic. The layout is simple
   
   This is the color palette i used. It was made with <a href="https://coolors.co/">Coolors</a>():
 
-  ![Alt text](/assets/images/colorpalette.png)
+  ![Alt text](/assets/images/colorpalette.webp)
 
   
   I checked the colour contrast on Adobe color <a href="https://color.adobe.com/create/color-contrast-analyzerhttps:/">Adobe color contrast</a>:
 
-  ![Alt text](/assets/images/contrast.png)
+  ![Alt text](/assets/images/contrast.webp)
 
   
   Then i checked if its colour blind safe <a href="https://color.adobe.com/create/color-wheel">(Adobe color blind safe)</a>:
 
-  ![Alt text](/assets/images/blindsafe.png) 
+  ![Alt text](/assets/images/blindsafe.webp) 
 
    
    I took inspiration from the following templates on <a href="https://dribbble.com/bossam/collections/6249676-mma">Dribble</a>: 
 
-   ![Alt text](/assets/images/Examples.png)
+   ![Alt text](/assets/images/Examples.webp)
 
 ## **Fonts**
 The fonts used are Noto+Sans PT+Serif imported from <a href="https://fonts.google.com/">Google Fonts</a>
@@ -68,7 +68,7 @@ In addition to Bootstrap, a variety of other tools and resources were used in th
 The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
 the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
 
-![Alt text](/assets/images/Screenshot%20(5).jpg)  
+![Alt text](/assets/images/sketch.webp)  
 
 
 ## **Formatters and validators**
@@ -83,7 +83,7 @@ Freeform, adds a professional touch to the website. The website is a valuable re
 and it is an excellent representation of the gym's brand.
 The website was also designed to be easily accessible on mobile devices, it was tested on iPhone.
 
-![AMMA Logo](/assets/images/logo.jpg)
+![AMMA Logo](/assets/images/logo.webp)
 
 ### **User Persona**
 User persona was used to create a list of users that are interested in the matter and their opinions gave some material to fullfill peoples needs:
@@ -94,40 +94,40 @@ User persona was used to create a list of users that are interested in the matte
 <details>
  <summary>The users i've generated:</summary>
 
-![User persona 0 card to enrich the AMMA website](/assets/images/user-persona.png)
+![User persona 0 card to enrich the AMMA website](/assets/images/user-persona.webp)
   
 
-![User persona 1 card to enrich the AMMA website](/assets/images/user-persona%20(1).png)
+![User persona 1 card to enrich the AMMA website](/assets/images/user-persona1.webp)
 
  
-![User persona 2 card to enrich the AMMA website](/assets/images/user-persona%20(2).png)
+![User persona 2 card to enrich the AMMA website](/assets/images/user-persona2.webp)
 
 
-![User persona 3 card to enrich the AMMA website](/assets/images/user-persona%20(3).png)
+![User persona 3 card to enrich the AMMA website](/assets/images/user-persona3.webp)
 
 
-![User persona 4 card to enrich the AMMA website](/assets/images/user-persona%20(4).png)
+![User persona 4 card to enrich the AMMA website](/assets/images/user-persona4.webp)
 
 
-![User persona 5 card to enrich the AMMA website](/assets/images/user-persona%20(5).png)
+![User persona 5 card to enrich the AMMA website](/assets/images/user-persona5.webp)
 
 
-![User persona 6 card to enrich the AMMA website](/assets/images/user-persona%20(6).png)
+![User persona 6 card to enrich the AMMA website](/assets/images/user-persona6.webp)
 
 
-![User persona 7 card to enrich the AMMA website](/assets/images/user-persona%20(7).png)
+![User persona 7 card to enrich the AMMA website](/assets/images/user-persona7.webp)
 
 
-![User persona 8 card to enrich the AMMA website](/assets/images/user-persona%20(8).png)
+![User persona 8 card to enrich the AMMA website](/assets/images/user-persona8.webp)
 
 
-![User persona 9 card to enrich the AMMA website](/assets/images/user-persona%20(9).png)
+![User persona 9 card to enrich the AMMA website](/assets/images/user-persona9.webp)
 
 
-![User persona 10 card to enrich the AMMA website](/assets/images/user-persona%20(10).png)
+![User persona 10 card to enrich the AMMA website](/assets/images/user-persona10.webp)
 
 
-![User persona 11 card to enrich the AMMA website](/assets/images/user-persona%20(11).png)
+![User persona 11 card to enrich the AMMA website](/assets/images/user-persona11.webp)
 
 
 </details>  
@@ -186,7 +186,7 @@ It includes contact details such as telephone, email and social media links.
 
 Here there is a site map that shows the websites diramations. i made it with  <a href="https://miro.com/">Miro.com</a> :
 
-![Alt text](/assets/images/Siremap.png)
+![Alt text](/assets/images/sitemap.webp)
 
 <br>  
 
