@@ -1,6 +1,6 @@
-<a href="https://alessiomigotti.github.io/Project-1/">This is the github deployment</a>
 
-# **Project 1 - Detailed ReadMe:**
+
+# **Project 1 - Detailed ReadMe:**  <a href="https://alessiomigotti.github.io/Project-1/">This is the github deployment</a>
 Welcome to Project 1! This is a web-based project created to showcase a specific topic in an interactive and engaging way. This ReadMe provides additional information and details about the project.
 
 ## **Purpose:**
@@ -25,20 +25,13 @@ If you have any questions or suggestions, please feel free to reach out to the c
 Your feedback is greatly appreciated and will help to improve future projects.
 
 
-The website was designed and developed using Bootstrap, a popular front-end framework developed and maintained by Twitter. 
-Bootstrap provides a set of pre-designed CSS and JavaScript components that can be easily integrated into a website,
- which makes it easy to create a website that looks great on desktop and mobile devices. The website was also designed
-  to be responsive and mobile-first, which means that it automatically adjusts the layout of a website to fit different screen sizes.Stack Overflow, an online community of developers that provides answers to programming questions, was also used as a resource for troubleshooting and solving development problems.
-
-The website's design is based on a clean, modern aesthetic. The layout is simple and easy to navigate, with clear headings and
- sections that make it easy for users to find the information they need. The colour scheme is primarily black and white, with
-  the occasional use of accent colours to highlight important elements.
 
   ## **Colour palette**
   This is the color palette i used. It was made with <a href="https://coolors.co/">Coolors</a>():
 
   ![Alt text](/assets/images/colorpalette.webp)
 <br>
+
   ## **Text contrast**
   I checked the colour contrast on Adobe color <a href="https://color.adobe.com/create/color-contrast-analyzerhttps:/">Adobe color contrast</a>:
 <details open>
@@ -87,8 +80,7 @@ the website's layout and design. This allowed for a approximative understanding 
 
 
 ## **Logo**
-The logo of the website was also created using Freeform, this software was used to create a logo that represents the brand of 
-the website, and adds an extra layer of professionalism and credibility to the website.
+The logo of the website was also created using Freeform for apple, this software was used to create a logo that represents the brand of the website, and adds an extra layer of professionalism and credibility to the website.
 The website is easy to navigate, visually appealing and fully responsive on mobile devices, the logo that was created using 
 Freeform, adds a professional touch to the website. The website is a valuable resource for anyone interested in MMA training, 
 and it is an excellent representation of the gym's brand.
@@ -164,7 +156,7 @@ In summary, the website was designed and developed using a combination of differ
 - <a href="https://www.upscale.media/">Upscale AI</a>
 - <a href="https://fonts.google.com/">Google Fonts</a>
 - <a href="https://stackoverflow.com/">Stack Overflow</a>
-<a href="https://ui.dev/amiresponsive">Ui dev,Am i responsive</a>
+- <a href="https://ui.dev/amiresponsive">Ui dev,Am i responsive</a>
 - <a href="https://htmlformatter.com/">HTMLFormatter</a>
 - <a href="https://www.cleancss.com/">CleanCSS</a>
 - <a href="https://validator.w3.org/">W3C validators</a>
@@ -174,6 +166,24 @@ In summary, the website was designed and developed using a combination of differ
 
 
 <br>
+
+## **Intro**
+The website was designed and developed using Bootstrap, a popular front-end framework developed and maintained by Twitter. 
+Bootstrap provides a set of pre-designed CSS and JavaScript components that can be easily integrated into a website,
+ which makes it easy to create a website that looks great on desktop and mobile devices. The website was also designed
+  to be responsive and mobile-first, which means that it automatically adjusts the layout of a website to fit different screen sizes.Stack Overflow, an online community of developers that provides answers to programming questions, was also used as a resource for troubleshooting and solving development problems.
+
+The website's design is based on a clean, modern aesthetic. The layout is simple and easy to navigate, with clear headings and
+ sections that make it easy for users to find the information they need. The colour scheme is primarily black and white, with
+  the occasional use of accent colours to highlight important elements.
+### **The process included the following steps:** 
+- Define the purpose and goals of the website
+- Plan the website structure and content
+- Design the layout, color scheme and user interface
+- Develop and implement the website using HTML, CSS, and framework
+- Test the website for functionality and usability
+- Launch the website and perform ongoing maintenance and updates.
+
 
 ## **Description**
 The website is called AMMA that stands for Academy Mixed Martial Arts.
@@ -218,7 +228,7 @@ It's a simple page with some bootstrap colours and a hypertext that brings you b
 <br>
 
 ## **Sitemap**
-Here there is a site map that shows the websites diramations. i made it with  <a href="https://miro.com/">Miro.com</a> :
+Here there is a site map that shows the websites diramations: <a href="https://miro.com/">Miro.com</a> :
 
 ![Alt text](/assets/images/sitemap.png)
 
@@ -228,7 +238,9 @@ Here there is a site map that shows the websites diramations. i made it with  <a
 
 The website also includes a HTML and CSS formatter, <a href="https://htmlformatter.com/">HTMLFormatter</a> and <a href="https://www.cleancss.com/">CleanCSS</a> respectively, to keep the code neat and tidy. 
 The website was also validated using <a href="https://validator.w3.org/">W3C</a> HTML and CSS validator to ensure that it meets web standards. All the html was validated.
+
 CSS Validation:
+
 ![AMMA Logo](/assets/images/validationcss.png)
 <br>
 
@@ -240,17 +252,17 @@ CSS Validation:
 <details>
 <summary>Lighthouse audit for Index Home</summary>  
 
-![screenshot of lighthouse audit for index homepage for AMMA](/assets/images/Screenshot%202023-02-01%20at%2011.40.29.png)
+![screenshot of lighthouse audit for index home page for AMMA](/assets/images/Screenshot%20(26).png)
 </details> 
 <details >
 <summary>Lighthouse audit for Gallery page</summary>  
 
-![screenshot of lighthouse audit for gallery page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.26.02.png)
+![screenshot of lighthouse audit for gallery page for AMMA](/assets/images/Screenshot%20(28).png)
 </details>
 <details >
 <summary>Lighthouse audit for Shop page</summary>  
 
-![screenshot of lighthouse audit for shop page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.26.39.png)
+![screenshot of lighthouse audit for shop page for AMMA](/assets/images/Screenshot%20(27).png)
 </details>  
 <details >
 <summary>Lighthouse audit for Contact Book page</summary>  
@@ -279,18 +291,18 @@ CSS Validation:
 <details >
 <summary>Lighthouse audit for Contact Book now page - Mobile</summary>  
 
-![screenshot of lighthouse audit for contact book now page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.19.01.png)
+![screenshot of lighthouse audit for contact book page for AMMA](/assets/images/Screenshot%202023-02-01%20at%2012.19.01.png)
 </details> 
 
 <br>
 
 ## **Responsiveness**
 The website was also designed to be easily accessible on mobile devices, it was tested on <a href="https://ui.dev/amiresponsive">Ui dev,Am i responsive</a>,
- this allowed us to ensure that the website was fully functional and responsive on mobile devices.
+ this allowed us to ensure that the website was fully functional and responsive on all devices.
  <details open>
 <summary>Am i responsive for Index Home</summary>  
 
-![screenshot of UiDEv audit for index homepage for AMMA](/assets/images/resp1.png)
+![screenshot of UiDEv audit for index home page for AMMA](/assets/images/resp1.png)
 </details> 
 <details open>
 <summary>Am i responsive for Gallery page</summary>  
@@ -305,12 +317,17 @@ The website was also designed to be easily accessible on mobile devices, it was 
 <details open>
 <summary>Am i responsive for Contact Book page</summary>  
 
-![screenshot of UiDEv audit for contact book now page for AMMA](/assets/images/resp4.png)
+![screenshot of UiDEv audit for contact book page for AMMA](/assets/images/resp4.png)
 </details> 
 
 ## **Unsolved bugs**
-Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles
-Serve images that are appropriately-sized to save cellular data and improve load time.
+- Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles
+- Serve images that are appropriately-sized to save cellular data and improve load time.
+- A long cache lifetime can speed up repeat visits to your page.
+- Set an explicit width and height on image elements to reduce layout shifts and improve CLS.
+- Some third-party embeds can be lazy loaded. Consider replacing them with a facade until they are required.
+- Consider marking your touch and wheel event listeners as `passive` to improve your page's scroll performance.
+- Avoid enormous network payloads.
 
-
+<a href="https://alessiomigotti.github.io/Project-1/">This is the github deployment</a>
 ## **Thank you for visiting Project 1! We hope you enjoy exploring the website and its features.**
