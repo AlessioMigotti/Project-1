@@ -89,6 +89,15 @@ The website was also designed to be easily accessible on mobile devices, it was 
 ![AMMA Logo](/assets/images/logo.webp)
 <br>
 
+## **Naviagation**
+
+![AMMA Nav](/assets/images/navigation.png)
+<br>
+
+## **Footer**
+
+![AMMA Footer](/assets/images/Footer.png)
+
 ## **User Persona**
 User persona was used to create a list of users that are interested in the matter and their opinions gave some material to fullfill peoples needs:
 
