@@ -332,7 +332,7 @@ The website was also designed to be easily accessible on mobile devices, it was 
 ## **Challenges**
 I encountered some problems during the advancement process.
 The deployment on github diden't support the parrallax effect on the hero images, that would have been a catch for the design of the website.
-Tried to solve it. After 16 commits to test it, I found that the best thing to do was to get rid of it and proceed with a normal scroll image. I was advised by my instructor about the unpredictability of this component, but i persisted over time, and failed.
+Tried to solve it. After 16 commits to test it, I found that the best thing to do was to get rid of it and proceed with a normal scroll image. I was advised by my mentor about the unpredictability of this component, but i persisted over time, and failed.
 
 ## **Unsolved bugs**
 - Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles
