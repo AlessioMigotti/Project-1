@@ -485,6 +485,7 @@ Tried to solve it. After 16 commits to test it, I found that the best thing to d
 - Some third-party embeds can be lazy loaded. Consider replacing them with a facade until they are required.
 - Consider marking your touch and wheel event listeners as `passive` to improve your page's scroll performance.
 - Avoid enormous network payloads.
+- Some aria-labels where declared as warnings on the validator.
 
 <a href="https://alessiomigotti.github.io/Project-1/">This is the github deployment</a>
 ## **Thank you for visiting Project 1! We hope you enjoy exploring the website and its features.**
