@@ -61,7 +61,7 @@ Your feedback is greatly appreciated and will help to improve future projects.
 
 ## **Images**
 
-In addition to <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>, a variety of other tools and resources were used in the development of the website. Pexels and Amazon were used as sources for high-quality, partially royalty-free images that were used throughout the website. The images were then
+In addition to <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>, a variety of other tools and resources were used in the development of the website. Pexels, Google and Amazon were used as sources for high-quality, partially royalty-free images that were used throughout the website. The images were then
   edited with the help of Croppola, an online image editing tool that allows you to crop and resize images and a compressor called Optimizilla.
   Ezgif was used to convert the images and, Upscale AI, was used to enhance the quality of the images.
 
