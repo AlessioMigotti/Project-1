@@ -4,7 +4,7 @@
 Welcome to Project 1! This is a web-based project created to showcase a specific topic in an interactive and engaging way. This ReadMe provides additional information and details about the project.
 
 ## **Purpose:**
-The purpose of Project 1 is to demonstrate an understanding of HTML, CSS, and JavaScript.
+The purpose of Project 1 is to demonstrate an understanding of HTML, CSS, and Bootstrap.
 The project showcases a specific topic using of various web development technologies.
 
 ## **Features:**
@@ -13,7 +13,7 @@ The website includes a user-friendly navigation menu, allowing for easy navigati
 Interactive elements such as hover effects, pop-ups, and animations are included to enhance user experience and make the website more engaging.
 
 ## **Technologies Used:**
-Project 1 was developed using HTML, CSS, and JavaScript.
+Project 1 was developed using HTML, CSS, and Bootstrap.
 The Bootstrap framework was used for styling and layout.
 
 ## **Usage:**
@@ -48,12 +48,12 @@ Your feedback is greatly appreciated and will help to improve future projects.
 <br>
 
   ## **Colorblind safe**
-  Then i checked if its colour blind safe <a href="https://color.adobe.com/create/color-wheel">(Adobe color blind safe)</a>:
+  Checked if it is colour blind safe <a href="https://color.adobe.com/create/color-wheel">(Adobe color blind safe)</a>:
 
   ![Alt text](/assets/images/blindsafe.webp) 
 <br>
-   ## **Examples i followed**
-   I took inspiration from the following templates on <a href="https://dribbble.com/bossam/collections/6249676-mma">Dribble</a>: 
+   ## **Examples followed**
+   Took inspiration from the following templates on <a href="https://dribbble.com/bossam/collections/6249676-mma">Dribble</a>: 
 
    ![Alt text](/assets/images/Examples.webp)
 <br>
@@ -66,14 +66,108 @@ The fonts used are Noto+Sans PT+Serif imported from <a href="https://fonts.googl
 
 In addition to Bootstrap, a variety of other tools and resources were used in the development of the website. Pexels and Amazon were used as sources for high-quality, partially royalty-free images that were used throughout the website. The images were then
   edited with the help of Croppola, an online image editing tool that allows you to crop and resize images and a compressor called Optimizilla.
-   And, Upscale AI, was used to enhance the quality of the images. Google Fonts was used to add stylish typography to the website. 
+   And, Upscale AI, was used to enhance the quality of the images.
+
+   <details>
+<summary>Hero 1 </summary>  
+
+![Hero 1 AMMA](/assets/images/hero.webp)
+</details> 
+<details>
+<summary>Hero 2 </summary>  
+
+![Hero 2 AMMA](/assets/images/hero2.webp)
+</details>
+
+<details>
+<summary>Testimonial 1 </summary>  
+
+![Testimonial 1 AMMA](/assets/images/testimonial1.webp)
+</details> 
+<details>
+<summary>Testimonial 2 </summary>  
+
+![Testimonial 2 AMMA](/assets/images/testimonial2.webp)
+</details>
+
+<details>
+<summary>Testimonial 3 </summary>  
+
+![Testimonial 3 AMMA](/assets/images/testimonial3.webp)
+</details>
+<details>
+<summary>Trainer 1 </summary>  
+
+![Trainer 1 AMMA](/assets/images/hammer.webp)
+</details>
+
+<details>
+<summary>Trainer 2 </summary>  
+
+![Trainer 2 AMMA](/assets/images/suzie.webp)
+</details>
+<details>
+<summary>Trainer 3 </summary>  
+
+![Trainer 3 AMMA](/assets/images/jay.webp)
+</details>
+
+<details>
+<summary>Venue 1 </summary>  
+
+![Venue 1 AMMA](/assets/images/venue1.webp)
+</details>  
+
+<details>
+<summary>Venue 2 </summary>  
+
+![Venue 2 AMMA](/assets/images/venue2.webp)
+</details>
+<details>
+<summary>Venue 3 </summary>  
+
+![Venue 3 AMMA](/assets/images/venue3.webp)
+</details>
+
+<details>
+<summary>Shop 1 </summary>  
+
+![Shop 1 AMMA](/assets/images/gloves.webp)
+</details>  
+
+<details>
+<summary>Shop 2 </summary>  
+
+![Shop 2 AMMA](/assets/images/headgear.webp)
+</details> 
+
+<details>
+<summary>Shop 3 </summary>  
+<details>
+<summary>Carousel img 1 </summary>
+
+![Shop 3 malecup AMMA](/assets/images/mancup.webp)
+</details>
+<details> 
+<summary>Carousel img 2 </summary>
+
+![Shop 3 femalecup AMMA](/assets/images/femalecup.webp)
+</details> 
+</details> 
+
+
+
 <br>
 
 ## **Wireframe**
 The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
 the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
+<details> 
+<summary>Figma preview </summary>
 
-![Alt text](/assets/images/figma.webp)  
+![Figma](/assets/images/figma.webp)  
+
+</details> 
 
 <br>
 
