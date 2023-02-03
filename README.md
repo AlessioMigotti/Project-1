@@ -159,6 +159,12 @@ In addition to Bootstrap, a variety of other tools and resources were used in th
 
 <br>
 
+## **Videos**
+The videos where added from <a href="https://www.youtube.com/">Youtube.com</a>.
+
+<br>
+
+
 ## **Wireframe**
 The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
 the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
@@ -285,6 +291,7 @@ In summary, the website was designed and developed using a combination of differ
 - <a href="https://dribbble.com/bossam/collections/6249676-mma">Dribble</a>
 - <a href="https://userpersona.dev/">User persona</a>
 - <a href="https://thispersondoesnotexist.com/">This person does not exist</a>
+- <a href="https://www.youtube.com/">Youtube.com</a>
 - <a href="https://coolors.co/">Coolors</a>
 - <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>
 - <a href="https://www.upscale.media/">Upscale AI</a>
