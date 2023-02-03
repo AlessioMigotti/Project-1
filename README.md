@@ -58,9 +58,6 @@ Your feedback is greatly appreciated and will help to improve future projects.
    ![Alt text](/assets/images/Examples.webp)
 <br>
 
-## **Fonts**
-The fonts used are Noto+Sans PT+Serif imported from <a href="https://fonts.google.com/">Google Fonts</a>
-<br>
 
 ## **Images**
 
@@ -174,16 +171,15 @@ The videos where added from <a href="https://www.youtube.com/">Youtube.com</a>.
 <br>
 
 
-## **Wireframe**
-The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
-the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
-<details> 
-<summary>Figma preview </summary>
 
-![Figma](/assets/images/figma.webp)  
 
-</details> 
+## **Text**
+I co-wrote the website's content, with half of it being my original writing and the other half being generated through collaboration with OpenAI's language model, <a href="https://openai.com/blog/chatgpt/">ChatGPT</a>.
 
+<br>
+
+## **Fonts**
+The fonts used are Noto+Sans PT+Serif imported from <a href="https://fonts.google.com/">Google Fonts</a>
 <br>
 
 ## **Sketch**
@@ -218,6 +214,18 @@ These where made with <a href="https://apps.apple.com/us/app/freeform/id64437425
 </details> 
  
  <br>
+
+ ## **Wireframe**
+The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
+the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
+<details> 
+<summary>Figma preview </summary>
+
+![Figma](/assets/images/figma.webp)  
+
+</details>
+
+<br>
 
 ## **Logo**
 The logo of the website was also created using <a href="https://apps.apple.com/us/app/freeform/id6443742539">Freeform</a> for apple, this software was used to create a logo that represents the brand of the website, and adds an extra layer of professionalism and credibility to the website.
@@ -292,6 +300,7 @@ The website was also designed to be easily accessible on mobile devices, it was 
 
 In summary, the website was designed and developed using a combination of different tools and resources such as: 
 - <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
+- <a href="https://openai.com/blog/chatgpt/">ChatGPT</a>
 - <a href="https://www.pexels.com/">Pexels</a>
 - <a href="https://www.amazon.co.uk/">Amazon</a>
 - <a href="https://croppola.com/">Croppola</a>
