@@ -4,7 +4,7 @@
 Welcome to Project 1! This is a web-based project created to showcase a specific topic in an interactive and engaging way. This ReadMe provides additional information and details about the project.
 
 ## **Purpose:**
-The purpose of Project 1 is to demonstrate an understanding of HTML, CSS, and Bootstrap.
+The purpose of Project 1 is to demonstrate an understanding of HTML, CSS, and <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>.
 The project showcases a specific topic using of various web development technologies.
 
 ## **Features:**
@@ -14,7 +14,7 @@ Interactive elements such as hover effects, pop-ups, and animations are included
 
 ## **Technologies Used:**
 Project 1 was developed using HTML, CSS, and Bootstrap.
-The Bootstrap framework was used for styling and layout.
+The <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a> framework was used for styling and layout.
 
 ## **Usage:**
 The website is intended for educational purposes only and is not intended for commercial use.
@@ -64,9 +64,9 @@ The fonts used are Noto+Sans PT+Serif imported from <a href="https://fonts.googl
 
 ## **Images**
 
-In addition to Bootstrap, a variety of other tools and resources were used in the development of the website. Pexels and Amazon were used as sources for high-quality, partially royalty-free images that were used throughout the website. The images were then
+In addition to <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>, a variety of other tools and resources were used in the development of the website. Pexels and Amazon were used as sources for high-quality, partially royalty-free images that were used throughout the website. The images were then
   edited with the help of Croppola, an online image editing tool that allows you to crop and resize images and a compressor called Optimizilla.
-   And, Upscale AI, was used to enhance the quality of the images.
+  Ezgif was used to convert the images and, Upscale AI, was used to enhance the quality of the images.
 
    <details>
 <summary>Hero 1 </summary>  
@@ -154,6 +154,11 @@ In addition to Bootstrap, a variety of other tools and resources were used in th
 ![Shop 3 femalecup AMMA](/assets/images/femalecup.webp)
 </details> 
 </details> 
+<details> 
+<summary>Map venues</summary>
+
+![Shop 3 femalecup AMMA](/assets/images/map.webp)
+</details> 
 
 
 
@@ -162,6 +167,10 @@ In addition to Bootstrap, a variety of other tools and resources were used in th
 ## **Videos**
 The videos where added from <a href="https://www.youtube.com/">Youtube.com</a>.
 
+- [![Watch the video Training MMA]](https://www.youtube.com/watch?v=Qg6ijTVH4Z0&t=1s)
+- [![Watch the video Under Armour - MMA Hard Workout Motivation]](https://www.youtube.com/watch?v=MNte5pRNsa4)
+- [![Watch the video MMA Champions Workout | Cinematic Commercial Video]](https://www.youtube.com/watch?v=nf8tVB3sz6U)
+- [![Watch the video Yair Rodriguez vs Andre Fili | FREE FIGHT | UFC 284]](https://www.youtube.com/watch?v=gscdghQd6IA)
 <br>
 
 
@@ -178,7 +187,7 @@ the website's layout and design. This allowed for a approximative understanding 
 <br>
 
 ## **Sketch**
-These where made with Freeform:
+These where made with <a href="https://apps.apple.com/us/app/freeform/id6443742539">Freeform</a> for apple:
 
 <details>
 <summary>Freeform for Home skech</summary>  
@@ -211,7 +220,7 @@ These where made with Freeform:
  <br>
 
 ## **Logo**
-The logo of the website was also created using Freeform for apple, this software was used to create a logo that represents the brand of the website, and adds an extra layer of professionalism and credibility to the website.
+The logo of the website was also created using <a href="https://apps.apple.com/us/app/freeform/id6443742539">Freeform</a> for apple, this software was used to create a logo that represents the brand of the website, and adds an extra layer of professionalism and credibility to the website.
 The website is easy to navigate, visually appealing and fully responsive on mobile devices, the logo that was created using 
 Freeform, adds a professional touch to the website. The website is a valuable resource for anyone interested in MMA training, 
 and it is an excellent representation of the gym's brand.
@@ -230,7 +239,7 @@ The website was also designed to be easily accessible on mobile devices, it was 
 ![AMMA Footer](/assets/images/Footer.png)
 
 ## **User Persona**
-User persona was used to create a list of users that are interested in the matter and their opinions gave some material to fullfill peoples needs:
+ <a href="https://userpersona.dev/">User persona</a> was used to create a list of users that are interested in the matter and their opinions gave some material to fullfill peoples needs:
 
 
   
@@ -282,7 +291,7 @@ User persona was used to create a list of users that are interested in the matte
 ## **Tools**
 
 In summary, the website was designed and developed using a combination of different tools and resources such as: 
-- <a href="https://www.pexels.com/">Bootstrap</a>
+- <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>
 - <a href="https://www.pexels.com/">Pexels</a>
 - <a href="https://www.amazon.co.uk/">Amazon</a>
 - <a href="https://croppola.com/">Croppola</a>
@@ -292,11 +301,13 @@ In summary, the website was designed and developed using a combination of differ
 - <a href="https://userpersona.dev/">User persona</a>
 - <a href="https://thispersondoesnotexist.com/">This person does not exist</a>
 - <a href="https://www.youtube.com/">Youtube.com</a>
+- <a href="https://apps.apple.com/us/app/freeform/id6443742539">Freeform</a>
 - <a href="https://coolors.co/">Coolors</a>
 - <a href="https://color.adobe.com/create/color-wheel">Adobe Colors</a>
 - <a href="https://www.upscale.media/">Upscale AI</a>
 - <a href="https://fonts.google.com/">Google Fonts</a>
 - <a href="https://stackoverflow.com/">Stack Overflow</a>
+- <a href="https://ezgif.com/png-to-webp">Ezgif</a>
 - <a href="https://ui.dev/amiresponsive">Ui dev,Am i responsive</a>
 - <a href="https://htmlformatter.com/">HTMLFormatter</a>
 - <a href="https://www.cleancss.com/">CleanCSS</a>
@@ -309,8 +320,8 @@ In summary, the website was designed and developed using a combination of differ
 <br>
 
 ## **Intro**
-The website was designed and developed using Bootstrap, a popular front-end framework developed and maintained by Twitter. 
-Bootstrap provides a set of pre-designed CSS and JavaScript components that can be easily integrated into a website,
+The website was designed and developed using <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a>, a popular front-end framework developed and maintained by Twitter. 
+<a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a> provides a set of pre-designed CSS and JavaScript components that can be easily integrated into a website,
  which makes it easy to create a website that looks great on desktop and mobile devices. The website was also designed
   to be responsive and mobile-first, which means that it automatically adjusts the layout of a website to fit different screen sizes.Stack Overflow, an online community of developers that provides answers to programming questions, was also used as a resource for troubleshooting and solving development problems.
 
@@ -328,44 +339,44 @@ The website's design is based on a clean, modern aesthetic. The layout is simple
 
 ## **Description**
 The website is called AMMA that stands for Academy Mixed Martial Arts.
-All the pages include a nav bar and a footer. The nav bar is made of the 4 componets (Home, Gallery, Shop and Book) and the logo (in the middle) that ridirects to the home page. The footer includes a copyright and the links to social media.
+All the pages include a nav bar and a footer. The nav bar is made of the 4 componets (Home, Gallery, Shop and Book ridirection) and the logo (in the middle) that ridirects to the home page. The footer includes a copyright and the links to social media (<a href="https://twitter.com/">Twitter</a>, <a href="https://www.instagram.com/">Intagram</a>, <a href="https://en-gb.facebook.com/">Facebook</a>).
 
-### **Home:**
+### **Home:** <a href="https://alessiomigotti.github.io/Project-1/index.html">Go to Home</a>
 The home page is named "Home".
 It introduces to the project and its purpose.
 It includes a brief overview of the topic and a call-to-action to explore the website further.
 It includes a hero image, a intoduction to the purpouse, and testimonials.
 
 
-### **About:**
+### **About:** <a href="https://alessiomigotti.github.io/Project-1/gallery.html">Go to Gallery</a>
 The About page is named "Gallery".
 It provides more information about the topic, including a history and background.
 It provides context and additional information to help users better understand the topic.
 Here there is another hero image. Then there is a photo and description of some of the trainers, under that there is a series of embeded Youtube videos with other examples of trainers and finally the photo and description of the three venues available.
 
-### **Features:**
+### **Features:** <a href="https://alessiomigotti.github.io/Project-1/shop.html">Go to Shop</a>
 The Features page is named "Shop".
 It highlights key features and interactive elements of the website.
 It provides an overview of the different ways in which users can engage with the website and its products.
 There are three products with images, brief descriptions and buy buttons that connect to a Checkout form.
 The last image of the three in the shop is a carousel that shows a female and male option.
 
-#### **Checkout:**
+#### **Checkout:** <a href="https://alessiomigotti.github.io/Project-1/buy.html">Go to Buy</a>
 The checkout page is named "buy".
 It gives you a visual of what the process of purchasing a product would look like.
 There is a simplified nav with the logo that brings you back to the home page and an arrow that takes you back to the shop page.
 Its content is a form to fill in with a prefixed cart.
 
-### **Contact:**
+### **Contact:** <a href="https://alessiomigotti.github.io/Project-1/book.html">Go to Book</a>
 The Contact page is named "Book".
 It provides information about how to get in touch with the creator of the project.
 It includes contact details such as telephone, email and social media links.
 There are three options to pick from that all bring you to a modal contact form, that will get you contacted by a member of staff.
 You have the option to choose from. A monthly, yearly subscription with a discout if you get the extended one and a option to get a one to one Champions Lesson. 
 
-### **404**
+### **404:** <a href="https://alessiomigotti.github.io/Project-1/404.html">Go to 404</a>
 404 is a status code that tells a web user that a requested page is not available. 404 and other response status codes are part of the web's Hypertext Transfer Protocol response codes. The 404 code means that a server could not find a client-requested webpage.
-It's a simple page with some bootstrap colours and a hypertext that brings you back to the home page.
+It's a simple page with some <a href="https://getbootstrap.com/docs/5.2/utilities/colors/#colors">Bootstrap colors</a> and a hypertext that brings you back to the home page.
 <br>
 
 ## **Sitemap**
