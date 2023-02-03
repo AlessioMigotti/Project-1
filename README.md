@@ -73,11 +73,42 @@ In addition to Bootstrap, a variety of other tools and resources were used in th
 The website's design process started with the use of wireframe software  <a href="https://www.figma.com/ui-design-tool/">Figma.com</a>, which was used to create a visual representation of 
 the website's layout and design. This allowed for a approximative understanding of the website's structure and organization before moving on to the actual development process.
 
-![Alt text](/assets/images/sketch.webp)  
+![Alt text](/assets/images/figma.webp)  
 
 <br>
 
+## **Sketch**
+These where made with Freeform:
 
+<details>
+<summary>Freeform for Home skech</summary>  
+
+![Freeform for Home skech for AMMA](/assets/images/freeformhome.jpg)
+</details> 
+<details>
+<summary>Freeform for Gallery skech</summary>  
+
+![Freeform for Gallery skech for AMMA](/assets/images/freeformgallery.jpg)
+</details>
+
+<details>
+<summary>Freeform for Shop skech</summary>  
+
+![Freeform for Shop skech for AMMA](/assets/images/freeformshop.jpg)
+</details> 
+<details>
+<summary>Freeform for Book skech</summary>  
+
+![Freeform for Book skech for AMMA](/assets/images/freeformbook.jpg)
+</details>
+
+<details>
+<summary>Freeform for Checkout skech</summary>  
+
+![Freeform for Checkout skech for AMMA](/assets/images/freeformcheckout.jpg)
+</details> 
+ 
+ <br>
 
 ## **Logo**
 The logo of the website was also created using Freeform for apple, this software was used to create a logo that represents the brand of the website, and adds an extra layer of professionalism and credibility to the website.
